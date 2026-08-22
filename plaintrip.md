@@ -20,9 +20,12 @@ updated: 2026-08-22
 
 - [ ] Arrange a VPN, roaming plan, or another suitable way to access required internet services in mainland China.
 - [ ] Bring a plug adapter if needed.
+- [ ] Set up and verify WeChat Pay before arriving in China.
+- [ ] Try Didi and Meituan during the trip.
 - [ ] Confirm accommodation requirements and coordinate hotel bookings with Echo.
 - [ ] Confirm whether any additional travel documentation is required.
 - [ ] Decide whether to pack extra clothes or buy up to three sets during the trip.
+- [ ] Bring Japanese banknotes as a gift.
 - [ ] Fill in the missing train, ferry, flight, and accommodation details marked `TBD` below.
 
 > [!NOTE] Possible additions
