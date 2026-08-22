@@ -155,6 +155,10 @@ updated: 2026-08-22
 > - reservation: TBD
 > - note: Book accommodation in Hong Kong regardless of which option is chosen.
 
+> [!NOTE] MUJI HOTEL Shenzhen
+>
+> I would like to stay at MUJI HOTEL Shenzhen, but it conflicts with the current schedule. Review this option later.
+
 ## 2026-09-05 @Asia/Shanghai
 
 > [!NOTE] Flexible meetup
