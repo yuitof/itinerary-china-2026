@@ -73,9 +73,11 @@ updated: 2026-08-22
 >
 > - note: 雷电芽衣的狗 is a friend.
 
+> [] sightseeing 百联ZX创趣场 :: Shanghai
+
 > [] sightseeing 上海大悦城 :: Shanghai
 
-> [] sightseeing 百联ZX创趣场 :: Shanghai
+> [] shopping UTme! custom T-shirt :: UNIQLO 上海南京西路全球旗舰店, Shanghai
 
 > [pm] lunch Burger shop recommended by Mars :: TBD, Shanghai
 >
@@ -94,6 +96,8 @@ updated: 2026-08-22
 > [!NOTE] Flexible day
 >
 > This is a spare day for meeting 雷电芽衣的狗 and Akashi-Ruri.
+
+> [] sightseeing 百联zx造趣场 :: Shanghai
 
 ## 2026-09-01 @Asia/Shanghai
 
