@@ -61,7 +61,7 @@ updated: 2026-08-22
 
 > [pm] sightseeing Explore Shanghai :: Shanghai
 >
-> - ideas: An iconic tower; an autonomous car experience; a possible Hangzhou day trip
+> - ideas: The Bund; an iconic tower; an autonomous car experience
 
 > [pm] hostel Accommodation :: Shanghai
 >
@@ -97,7 +97,13 @@ updated: 2026-08-22
 >
 > This is a spare day for meeting 雷电芽衣的狗 and Akashi-Ruri.
 
+> [] sightseeing Hangzhou day trip :: Shanghai - Hangzhou
+
 > [] sightseeing 百联zx造趣场 :: Shanghai
+
+> [!CAUTION] Choose one priority
+>
+> A Hangzhou day trip and a visit to 百联zx造趣场 are difficult to fit into the same day. Prioritize one, or move the other activity.
 
 ## 2026-09-01 @Asia/Shanghai
 
