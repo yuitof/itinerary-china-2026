@@ -55,13 +55,11 @@ updated: 2026-08-22
 >
 > - note: Akashi-Ruri is a friend.
 
-> [pm] hostel Accommodation :: Shanghai
->
-> - reservation: TBD
+> [] shopping Buy camera equipment :: 星光摄影器材城, Shanghai
 
-## 2026-08-30 @Asia/Shanghai
+> [] shopping Buy camera equipment :: 环龙摄影器材城, Shanghai
 
-> [am] sightseeing Explore Shanghai :: Shanghai
+> [pm] sightseeing Explore Shanghai :: Shanghai
 >
 > - ideas: An iconic tower; an autonomous car experience; a possible Hangzhou day trip
 
@@ -69,25 +67,35 @@ updated: 2026-08-22
 >
 > - reservation: TBD
 
-## 2026-08-31 @Asia/Shanghai
+## 2026-08-30 @Asia/Shanghai
 
 > [am] meetup Meet 雷电芽衣的狗 :: Shanghai
 >
 > - note: 雷电芽衣的狗 is a friend.
 
-> [am] lunch Burger shop recommended by Mars :: TBD, Shanghai
->
-> - reservation: TBD
-
-> [] sightseeing 上海静安大悦城南座 :: Shanghai
+> [] sightseeing 上海大悦城 :: Shanghai
 
 > [] sightseeing 百联ZX创趣场 :: Shanghai
 
-## 2026-09-01 @Asia/Shanghai
+> [pm] lunch Burger shop recommended by Mars :: TBD, Shanghai
+>
+> - reservation: TBD
+
+> [!CAUTION] May fall through
+>
+> This burger shop is far from central Shanghai, so skip it if the travel time does not fit the day.
+
+> [pm] hostel Accommodation :: Shanghai
+>
+> - reservation: TBD
+
+## 2026-08-31 @Asia/Shanghai
 
 > [!NOTE] Flexible day
 >
 > This is a spare day for meeting 雷电芽衣的狗 and Akashi-Ruri.
+
+## 2026-09-01 @Asia/Shanghai
 
 > [] farewell See Akashi-Ruri off :: Station TBD, Shanghai
 
