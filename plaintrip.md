@@ -1,283 +1,231 @@
 ---
 type: tripmd
-title: Welcome to PlainTrip MD
-description: A fictional itinerary and compact reference for writing a shareable trip in Markdown.
+title: China 2026
+description: A journey through Shanghai, Wuhan, Shenzhen, Hong Kong, Zhuhai, Macau, and Ganzhou.
 tags:
-  - Introduction
-  - Sample
-  - Lisbon
-budget: 450 EUR
-currency: EUR
-timezone: Europe/Lisbon
-updated: 2027-02-01
+  - China
+  - Shanghai
+  - Wuhan
+  - Shenzhen
+  - Hong Kong
+  - Macau
+  - Ganzhou
+budget: 150000 JPY
+currency: JPY
+timezone: Asia/Shanghai
+updated: 2026-08-22
 ---
 
-## What is PlainTrip MD?
+## Before you go
 
-PlainTrip MD turns a small Markdown file into a calm, read-only itinerary that can be shared at one stable URL.
+- [ ] Arrange a VPN, roaming plan, or another suitable way to access required internet services in mainland China.
+- [ ] Bring a plug adapter if needed.
+- [ ] Confirm accommodation requirements and coordinate hotel bookings with Echo.
+- [ ] Confirm whether any additional travel documentation is required.
+- [ ] Decide whether to pack extra clothes or buy up to three sets during the trip.
+- [ ] Fill in the missing train, ferry, flight, and accommodation details marked `TBD` below.
 
-- **Arrange transport, stays, meals, and activities** on one timeline.
-- **Keep local times understandable** when a trip crosses timezones.
-- **Track an estimated budget** from event prices.
-- **Edit with ordinary tools** and publish by pushing to a public GitHub repository.
-
-# Example itinerary
-
-Everything below is fictional. Replace it with your own dates, places, and plans.
-
-## 2027-05-14 @Europe/Lisbon
-
-> [10:15] flight Morning arrival :: Home airport - Lisbon Airport^LIS
+> [!NOTE] Possible additions
 >
-> - price: 180 EUR
-> - class: Economy
-> - note: Keep the first afternoon light
+> Zhuhai and Guangzhou both have more places worth considering if the schedule allows.
 
-> [11:30] - [12:15] subway Red Line :: Lisbon Airport - Alameda
+## 2026-08-28 @Asia/Tokyo
+
+> [19:00] - [22:30] dinner Dinner with company members :: ALLd.
+
+> [22:59] - [23:52] train Airport transfer :: Shibuya - Haneda Airport Terminal 1
 >
-> - price: 2 EUR
-> - duration: 30 minutes
+> - service: Tokyo Monorail
+> - status: Planned
+> - note: Confirm the required transfer and last-train timing.
 
-> [12:30] train Green Line :: Alameda - Baixa-Chiado
+## 2026-08-29 @Asia/Shanghai
+
+> [02:40@Asia/Tokyo] - [05:00] flight MM877 :: Haneda Airport^HND - Shanghai Pudong International Airport^PVG
 >
-> - price: 2 EUR
+> - price: 36080 JPY
+> - class: Standard
+> - seat: TBD
 
-> [!CAUTION] Example information only
+> [am] shopping Essential clothes :: Shanghai
 >
-> Confirm real transport times and entry requirements with official sources.
+> - note: Buy two sets of underwear, one pair of pajamas, and clothes for the following day if needed.
 
-> [15:00] hotel Guesthouse check-in :: [Example Guesthouse](https://example.com/stay)
+> [am] meetup Meet Akashi-Ruri :: TBD, Shanghai
 >
-> - check-in: 15:00
-> - check-out: 11:00
-> - price: {24*2} EUR
-> - wifi: Available
+> - note: Akashi-Ruri is a friend.
 
-> [20:00] dinner First meal together :: Baixa, Lisbon
+> [pm] hostel Accommodation :: Shanghai
 >
-> - price: 30 EUR
-> - note: Choose the restaurant after everyone arrives
+> - reservation: TBD
 
-## 2027-05-15 @Europe/Lisbon
+## 2026-08-30 @Asia/Shanghai
 
-> [!TIP] Leave breathing room
+> [am] sightseeing Explore Shanghai :: Shanghai
 >
-> One neighbourhood and an unhurried lunch may be better than crossing the city for every attraction.
+> - ideas: An iconic tower; an autonomous car experience; a possible Hangzhou day trip
 
-> [09:00] breakfast Pastries and coffee :: Alfama, Lisbon
+> [pm] hostel Accommodation :: Shanghai
 >
-> - price: 8 EUR
+> - reservation: TBD
 
-> [10:30] - [13:00] sightseeing Viewpoints and old streets :: Alfama, Lisbon
+## 2026-08-31 @Asia/Shanghai
+
+> [am] meetup Meet 雷电芽衣的狗 :: Shanghai
 >
-> - price: {12*2} EUR
-> - note: Walk part of the route if transit is crowded
+> - note: 雷电芽衣的狗 is a friend.
 
-> [13:30] lunch Market lunch :: [Example Market](https://example.com/market)
+> [am] lunch Burger shop recommended by Mars :: TBD, Shanghai
 >
-> - price: 20 EUR
+> - reservation: TBD
 
-> [15:00] - [17:00] museum Choose one museum
+> [] sightseeing 上海静安大悦城南座 :: Shanghai
+
+> [] sightseeing 百联ZX创趣场 :: Shanghai
+
+## 2026-09-01 @Asia/Shanghai
+
+> [!NOTE] Flexible day
 >
-> - price: 15 EUR
-> - reservation: Decide with the group
+> This is a spare day for meeting 雷电芽衣的狗 and Akashi-Ruri.
 
-> [pm] walk Riverside stroll :: Praça do Comércio - Cais do Sodré
+> [] farewell See Akashi-Ruri off :: Station TBD, Shanghai
 
----
-
-# Syntax reference
-
-The title, locations, and metadata values may contain normal inline Markdown such as **emphasis**, `code`, and [links](https://example.com).
-
-## 1. Event lines
-
-Write an event inside a Markdown blockquote:
-
-```markdown
-> [time] event-type Optional title :: Place or route
+> [20:38] - [06:41+1] train G3318 :: Shanghai South Railway Station - Hankou Railway Station
 >
-> - detail: value
-```
+> - price: 6449 JPY
+> - duration: 10h 3m
+> - class: Second-class sleeper
+> - status: Planned
 
-The title and destination are optional. Metadata lines belong to the event above them.
+> [pm] stay Overnight on the sleeper train :: Shanghai - Wuhan
 
-## 2. Event types
+## 2026-09-02 @Asia/Shanghai
 
-The event type selects its timeline icon and broad category.
-
-### Transportation
-
-```markdown
-> [10:00] flight Morning flight :: Airport A - Airport B
-> [11:00] train Intercity train :: Central Station - Coast Station
-> [12:00] bus Airport bus :: Airport - Hotel
-> [13:00] taxi Ride to dinner :: Hotel - Restaurant
-> [14:00] subway Metro transfer :: Station A - Station B
-> [15:00] ferry Island crossing :: Main Port - Island Port
-> [16:00] drive Rental-car loop
-> [17:00] cablecar Ride to the summit
-```
-
-### Accommodation
-
-```markdown
-> [15:00] hotel City hotel
-> [18:00] ryokan Hot-spring inn
-> [14:00] hostel Youth hostel
-> [16:00] dormitory Shared guesthouse
-> [15:00] stay Friend's home
-```
-
-### Activities
-
-Any other word can be an activity type:
-
-```markdown
-> [09:00] breakfast Hotel breakfast
-> [10:00] museum Design museum
-> [12:30] lunch Market lunch
-> [14:00] sightseeing Old town walk
-> [16:00] cafe Coffee break
-> [18:00] shopping Local shops
-> [20:00] dinner Group dinner
-```
-
-## 3. Times
-
-### Exact times
-
-```markdown
-> [09:00] breakfast Morning coffee
-> [09:00@Asia/Tokyo] meeting Call in Tokyo time
-> [09:00] - [11:30] activity Guided walk
-> [06:30+1] arrival Overnight arrival
-```
-
-### Approximate times
-
-```markdown
-> [am] activity Morning plan
-> [pm] cafe Afternoon break
-> [] sightseeing Time not decided
-```
-
-## 4. Dates and timezones
-
-Begin an itinerary day with an ISO date. A timezone on the heading applies to the events below it:
-
-```markdown
-## 2027-05-14 @Europe/Lisbon
-```
-
-An event-level timezone overrides the date heading, and the frontmatter timezone is the document-wide fallback.
-
-## 5. Locations and routes
-
-Use `::` for a destination. Put spaces around the dash in a journey:
-
-```markdown
-> [10:00] museum Morning visit :: Design Museum
-> [12:00] train Coast service :: Central Station - Coast Station
-```
-
-The alternative `from ... to ...` form is also supported:
-
-```markdown
-> [12:00] train Coast service from Central Station to Coast Station
-```
-
-Append an alternate label with `^`, such as `Lisbon Airport^LIS`.
-
-## 6. Event metadata
-
-Metadata uses `key: value` list items inside the same blockquote.
-
-### Prices
-
-```markdown
-> - price: 100 EUR
-> - cost: 15000 JPY
-```
-
-`price` and `cost` contribute to the budget summary. Arithmetic such as `{25*4} EUR` is evaluated using numbers and arithmetic operators only.
-
-### Transportation details
-
-```markdown
-> - class: Economy
-> - seat: 12A
-> - duration: 2h 30m
-> - platform: 5
-> - gate: 42
-```
-
-### Stay details
-
-```markdown
-> - check-in: 15:00
-> - check-out: 11:00
-> - room: Twin room
-> - wifi: Available
-> - breakfast: Included
-```
-
-### Notes and bookings
-
-```markdown
-> - reservation: Required
-> - url: https://example.com
-> - note: Move indoors if it rains
-> - menu: Set menu
-> - phone: +00 000 000 000
-```
-
-Custom metadata keys are welcome too.
-
-## 7. Alerts
-
-PlainTrip MD supports the five GitHub-style alert variants:
-
-> [!NOTE] Note
+> [am] meetup Meet Echo :: Wuhan
 >
-> Add helpful context without making it an event.
+> - note: Echo is a friend.
 
-> [!TIP] Tip
+> [pm] stay Echo's house :: Wuhan
+
+## 2026-09-03 @Asia/Shanghai
+
+> [] stay Echo's house :: Wuhan
+
+## 2026-09-04 @Asia/Shanghai
+
+> [am] train Travel to Shenzhen :: Wuhan - Shenzhen
 >
-> Offer an optional shortcut or suggestion.
+> - service: TBD
+> - reservation: TBD
 
-> [!IMPORTANT] Important
+> [] meetup Meet William :: Shenzhen
 >
-> Highlight something the group should remember.
+> - note: If September 4 is not possible, meet on September 5 or 6 instead.
 
-> [!WARNING] Warning
+> [!NOTE] Hong Kong plan
 >
-> Call attention to a likely disruption.
+> If William cannot join, continue to Hong Kong first. If he can join on September 4, stay in Shenzhen that night and travel to Hong Kong together.
 
-> [!CAUTION] Caution
+> [] sightseeing Explore Huaqiangbei :: Huaqiangbei, Shenzhen
+
+> [pm] stay Tenz Luxury Spa Shenzhen :: Shenzhen
 >
-> Reserve this for information requiring extra care.
+> - reservation: TBD
+> - note: Book accommodation in Hong Kong regardless of which option is chosen.
 
-## 8. Frontmatter
+## 2026-09-05 @Asia/Shanghai
 
-The YAML block at the top controls the document heading and defaults:
+> [!NOTE] Flexible meetup
+>
+> William may still be able to join on this day.
 
-```yaml
----
-type: tripmd
-title: My trip
-description: One sentence for the people opening the link.
-tags: [Weekend, Friends]
-budget: 500 EUR
-currency: EUR
-timezone: Europe/Lisbon
----
-```
+> [pm] train Travel to Hong Kong :: Shenzhen - Hong Kong
+>
+> - service: TBD
+> - reservation: TBD
 
-Keep `type: tripmd` to enable itinerary parsing. `currency` and `timezone` provide fallbacks when an event does not specify its own values.
+> [pm] stay Accommodation :: Hong Kong
+>
+> - reservation: TBD
 
----
+## 2026-09-06 @Asia/Hong_Kong
 
-# About this template
+> [] stay Accommodation :: Hong Kong
+>
+> - reservation: TBD
 
-PlainTrip MD uses the open-source itinerary and alert parsers from [TripMD / itinerary-md](https://github.com/cumuloworks/itinerary-md). The viewer is read-only: edit `plaintrip.md` on GitHub, then refresh the same shared URL.
+## 2026-09-07 @Asia/Hong_Kong
+
+> [] farewell See William off :: Hong Kong
+>
+> - note: William may leave earlier if he does not have enough time.
+
+> [am] ferry Travel to Zhuhai :: Hong Kong - Zhuhai
+>
+> - service: TBD
+> - reservation: TBD
+
+> [pm] transport Travel to Macau :: Zhuhai - Macau
+>
+> - mode: TBD
+
+> [pm] stay Accommodation :: Macau
+>
+> - reservation: TBD
+
+## 2026-09-08 @Asia/Macau
+
+> [am] train Travel to Ganzhou :: Macau - Ganzhou
+>
+> - service: TBD
+> - reservation: TBD
+
+> [pm] stay Accommodation :: Ganzhou
+>
+> - reservation: TBD
+
+## 2026-09-09 @Asia/Shanghai
+
+> [] stay Accommodation :: Ganzhou
+>
+> - reservation: TBD
+
+## 2026-09-10 @Asia/Shanghai
+
+> [] farewell See Echo off :: Ganzhou
+
+> [!CAUTION] Subject to change
+>
+> The route and timing for the return to Hong Kong still need confirmation.
+
+> [] train Travel to Hong Kong :: Ganzhou - Hong Kong
+>
+> - service: TBD
+> - reservation: TBD
+
+> [] stay Accommodation :: Hong Kong
+>
+> - reservation: TBD
+
+## 2026-09-11 @Asia/Hong_Kong
+
+> [] flight UO624 :: Hong Kong International Airport^HKG - Haneda Airport^HND
+>
+> - price: 1116 HKD
+> - class: TBD
+> - seat: TBD
+> - departure: TBD
+> - arrival: TBD
+
+## Details still to confirm
+
+- [ ] Shanghai accommodation for August 29 and 30.
+- [ ] Plans and accommodation for August 31.
+- [ ] Wuhan-to-Shenzhen train on September 4.
+- [ ] Whether William joins in Shenzhen or Hong Kong.
+- [ ] Shenzhen-to-Hong Kong transport and Hong Kong accommodation.
+- [ ] Hong Kong-to-Zhuhai ferry and Zhuhai-to-Macau transport.
+- [ ] Macau-to-Ganzhou transport and Ganzhou accommodation.
+- [ ] Ganzhou-to-Hong Kong transport and final Hong Kong accommodation.
+- [ ] Departure and arrival times for flight UO624.
