@@ -1,7 +1,7 @@
 ---
 type: tripmd
 title: China 2026
-description: A journey through Shanghai, Wuhan, Shenzhen, Hong Kong, Zhuhai, Macau, and Ganzhou.
+description: A journey through Shanghai, Wuhan, Shenzhen, Hong Kong, Zhuhai, and Macau.
 tags:
   - China
   - Shanghai
@@ -9,7 +9,6 @@ tags:
   - Shenzhen
   - Hong Kong
   - Macau
-  - Ganzhou
 budget: 150000 JPY
 currency: JPY
 timezone: Asia/Shanghai
@@ -27,6 +26,7 @@ updated: 2026-08-22
 - [ ] Decide whether to pack extra clothes or buy up to three sets during the trip.
 - [ ] Bring Japanese banknotes as a gift.
 - [ ] Fill in the missing train, ferry, flight, and accommodation details marked `TBD` below.
+- [ ] Need to buy a travel adapter.
 
 > [!NOTE] Possible additions
 >
@@ -82,6 +82,10 @@ updated: 2026-08-22
 
 > [] shopping UTme! custom T-shirt :: UNIQLO 上海南京西路全球旗舰店, Shanghai
 
+> [] shopping Tech gadgets (keyboards/PC components) :: 百脑汇 / 太平洋数码广场 (Xujiahui), Shanghai
+>
+> - note: After UNIQLO; explore the Xujiahui electronics cluster for keyboards, PC components, and peripherals while with 雷电芽衣的狗.
+
 > [pm] lunch Burger shop recommended by Mars :: TBD, Shanghai
 >
 > - reservation: TBD
@@ -135,6 +139,14 @@ updated: 2026-08-22
 
 ## 2026-09-04 @Asia/Shanghai
 
+> [] stay Echo's house :: Wuhan
+
+## 2026-09-05 @Asia/Shanghai
+
+> [] stay Echo's house :: Wuhan
+
+## 2026-09-06 @Asia/Shanghai
+
 > [am] train Travel to Shenzhen :: Wuhan - Shenzhen
 >
 > - service: TBD
@@ -142,11 +154,7 @@ updated: 2026-08-22
 
 > [] meetup Meet William :: Shenzhen
 >
-> - note: If September 4 is not possible, meet on September 5 or 6 instead.
-
-> [!NOTE] Hong Kong plan
->
-> If William cannot join, continue to Hong Kong first. If he can join on September 4, stay in Shenzhen that night and travel to Hong Kong together.
+> - note: If September 6 is not possible, meet in Hong Kong instead.
 
 > [] sightseeing Explore Huaqiangbei :: Huaqiangbei, Shenzhen
 
@@ -159,11 +167,7 @@ updated: 2026-08-22
 >
 > I would like to stay at MUJI HOTEL Shenzhen, but it conflicts with the current schedule. Review this option later.
 
-## 2026-09-05 @Asia/Shanghai
-
-> [!NOTE] Flexible meetup
->
-> William may still be able to join on this day.
+## 2026-09-07 @Asia/Hong_Kong
 
 > [pm] train Travel to Hong Kong :: Shenzhen - Hong Kong
 >
@@ -174,13 +178,7 @@ updated: 2026-08-22
 >
 > - reservation: TBD
 
-## 2026-09-06 @Asia/Hong_Kong
-
-> [] stay Accommodation :: Hong Kong
->
-> - reservation: TBD
-
-## 2026-09-07 @Asia/Hong_Kong
+## 2026-09-08 @Asia/Hong_Kong
 
 > [] farewell See William off :: Hong Kong
 >
@@ -199,32 +197,17 @@ updated: 2026-08-22
 >
 > - reservation: TBD
 
-## 2026-09-08 @Asia/Macau
+## 2026-09-09 @Asia/Macau
 
-> [am] train Travel to Ganzhou :: Macau - Ganzhou
->
-> - service: TBD
-> - reservation: TBD
+> [] sightseeing Explore Macau :: Macau
 
-> [pm] stay Accommodation :: Ganzhou
+> [] stay Accommodation :: Macau
 >
 > - reservation: TBD
 
-## 2026-09-09 @Asia/Shanghai
+## 2026-09-10 @Asia/Macau
 
-> [] stay Accommodation :: Ganzhou
->
-> - reservation: TBD
-
-## 2026-09-10 @Asia/Shanghai
-
-> [] farewell See Echo off :: Ganzhou
-
-> [!CAUTION] Subject to change
->
-> The route and timing for the return to Hong Kong still need confirmation.
-
-> [] train Travel to Hong Kong :: Ganzhou - Hong Kong
+> [] ferry Return to Hong Kong :: Macau - Hong Kong
 >
 > - service: TBD
 > - reservation: TBD
@@ -247,10 +230,9 @@ updated: 2026-08-22
 
 - [ ] Shanghai accommodation for August 29 and 30.
 - [ ] Plans and accommodation for August 31.
-- [ ] Wuhan-to-Shenzhen train on September 4.
+- [ ] Wuhan-to-Shenzhen train on September 6.
 - [ ] Whether William joins in Shenzhen or Hong Kong.
 - [ ] Shenzhen-to-Hong Kong transport and Hong Kong accommodation.
 - [ ] Hong Kong-to-Zhuhai ferry and Zhuhai-to-Macau transport.
-- [ ] Macau-to-Ganzhou transport and Ganzhou accommodation.
-- [ ] Ganzhou-to-Hong Kong transport and final Hong Kong accommodation.
+- [ ] Macau-to-Hong Kong return transport and final Hong Kong accommodation.
 - [ ] Departure and arrival times for flight UO624.
