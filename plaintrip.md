@@ -86,13 +86,13 @@ updated: 2026-08-22
 >
 > - note: After UNIQLO; explore the Xujiahui electronics cluster for keyboards, PC components, and peripherals while with 雷电芽衣的狗.
 
-> [pm] lunch Burger shop recommended by Mars :: TBD, Shanghai
+> [pm] lunch Lunch :: TBD, Shanghai
+>
+> - note: Will eat, but the place to eat has not been decided yet.
+
+> [pm] sightseeing Visit the Oriental Pearl TV Tower :: Oriental Pearl TV Tower, Shanghai
 >
 > - reservation: TBD
-
-> [!CAUTION] May fall through
->
-> This burger shop is far from central Shanghai, so skip it if the travel time does not fit the day.
 
 > [pm] hostel Accommodation :: Shanghai
 >
