@@ -147,6 +147,10 @@ updated: 2026-08-22
 
 ## 2026-09-06 @Asia/Shanghai
 
+> [] stay Echo's house :: Wuhan
+
+## 2026-09-07 @Asia/Shanghai
+
 > [am] train Travel to Shenzhen :: Wuhan - Shenzhen
 >
 > - service: TBD
@@ -167,7 +171,7 @@ updated: 2026-08-22
 >
 > I would like to stay at MUJI HOTEL Shenzhen, but it conflicts with the current schedule. Review this option later.
 
-## 2026-09-07 @Asia/Hong_Kong
+## 2026-09-08 @Asia/Hong_Kong
 
 > [pm] train Travel to Hong Kong :: Shenzhen - Hong Kong
 >
@@ -178,7 +182,7 @@ updated: 2026-08-22
 >
 > - reservation: TBD
 
-## 2026-09-08 @Asia/Hong_Kong
+## 2026-09-09 @Asia/Hong_Kong
 
 > [] farewell See William off :: Hong Kong
 >
@@ -197,15 +201,17 @@ updated: 2026-08-22
 >
 > - reservation: TBD
 
-## 2026-09-09 @Asia/Macau
+## 2026-09-10 @Asia/Macau
 
 > [] sightseeing Explore Macau :: Macau
+
+> [] farewell See Echo off
 
 > [] stay Accommodation :: Macau
 >
 > - reservation: TBD
 
-## 2026-09-10 @Asia/Macau
+## 2026-09-11 @Asia/Macau
 
 > [] ferry Return to Hong Kong :: Macau - Hong Kong
 >
@@ -216,7 +222,7 @@ updated: 2026-08-22
 >
 > - reservation: TBD
 
-## 2026-09-11 @Asia/Hong_Kong
+## 2026-09-12 @Asia/Hong_Kong
 
 > [] flight UO624 :: Hong Kong International Airport^HKG - Haneda Airport^HND
 >
